@@ -14,6 +14,7 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 
 </head>
+<div id="app">正在加载...</div>
 
 <body>
   <div id="app"></div>
@@ -39,6 +40,20 @@
       }
     };
   </script>
+  <script>
+    window.$docsify = {
+      loadSidebar: true,
+      subMaxLevel: 2
+    }
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script>
+    window.$docsify = {
+      // ...
+    }
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
 
   <!-- Required -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
