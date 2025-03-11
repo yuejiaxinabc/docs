@@ -1,31 +1,32 @@
-# Docsify Template
+# 云创智能云帮助文档存储库
 
-> A simple [Docsify](https://github.com/docsifyjs/docsify/) template for creating Markdown-based documentation sites, with no build process required.
+欢迎来到云创智能云的帮助文档存储库！这里包含了关于如何使用我们服务的详细指南和常见问题解答。
 
-## Site Setup
+## 简介
 
-### Static Webserver
-Upload these template files to any static web server. The file `.nojekyll` is only required if hosting the site on GitHub Pages and otherwise can be removed.
+云创智能云致力于为用户提供高效、便捷的智能云服务。本文档库旨在帮助您快速上手并充分利用我们的各项功能。
 
-### GitHub Pages
+## 快速开始
 
-#### Hosting Site
+### 创建账户
+首先，您需要在[云创智能云官网](https://www.yunchuangzhineng.com)注册一个账户。
 
-To host this template on GitHub Pages do the following:  
+### 探索功能
+登录后，您可以在控制台首页探索我们的各项核心功能。
 
-1. Log into GitHub if you have not done so already
-2. Tap the **Use this template** button in the upper-right of this GitHub Repository and choose **Create a new repository**
-3. Enter a name for your new Repository and then tap the **Create repository** button
-4. Once your new Repostitory is created go to **Settings**, then select **Pages** from the left-hand sidebar, and under **Branch** choose **main** and then tap the **Save** button
-5. Wait a minute or two and refresh the same **Pages** page - once your site is ready a message will be displayed at the top of the screen along with a site link and a **Visit site** button
+## 常见问题
 
-#### Editing Content
+### 如何重置密码？
+您可以在登录页面点击“忘记密码？”链接，按照提示操作即可重置密码。
 
-How about editing the content of your new Docsify site on GitHub Pages? View the Markdown page you want to edit (for example, **README.md**) and tap the **Pencil Icon**, then save any changes by tapping the green **Commit changes...** button. In just a few moments the Docsify site will be automatically updated to reflect those changes.
+### 如何获取技术支持？
+您可以通过以下方式获取我们的技术支持：
+- 在线客服：在官网右下角点击“在线客服”按钮。
+- 邮箱支持：发送邮件至[yuejiaxin@cloudmxc.com](mailto:yuejiaxin@cloudmxc.com)。
 
-### Viewing Locally 
-Run `npx serve .` (Node.js users) or `python -m http.server 8000` (Python users) in the repo folder to serve run locally.
+## 文档更新日志
 
-## Docsify Documentation
+本文档库会不定期更新，以反映服务的最新变化。请定期查看以获取最新信息。
 
-To learn more about using Docsify, visit https://docsify.js.org.
+
+如果您在使用过程中有任何疑问或建议，请随时通过[反馈中心](https://www.console.cloudmxc.com)提交给我们。
